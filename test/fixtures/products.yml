@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  category_id: 1
+  price: 9.99
+  active: false
+  inventory_id: 1
+  item: 1
+  set: false
+
+two:
+  name: MyString
+  category_id: 1
+  price: 9.99
+  active: false
+  inventory_id: 1
+  item: 1
+  set: false
